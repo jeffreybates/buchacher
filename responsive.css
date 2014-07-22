@@ -1,0 +1,27 @@
+@media only screen and (max-width: 480px){
+
+.profilepic {
+float: none;
+width: 100%;
+
+}
+.mywords {
+float: none;
+width: 100%;
+}
+
+body {
+	background-color: green;
+}
+
+
+
+/*
+
+#navigation {
+
+
+}
+
+}
+
